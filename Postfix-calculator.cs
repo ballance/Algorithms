@@ -6,7 +6,7 @@ void Main()
 	var current = 0.0;
 
 	if (String.IsNullOrWhiteSpace(input))
-    {
+        {
 		Console.WriteLine("Empty input is not valid");
 		return;
 	}
