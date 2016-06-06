@@ -7,4 +7,4 @@ Some algorithms I've used lately - mostly code interview fodder
  - [Sum of Squares](Sum-of-squares.cs)
 
 #### JavaScript
- - [Simple Compression](SimpleCompression.js)
+ - [Simple Compression](Simple-Compression.js)
