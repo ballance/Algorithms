@@ -18,10 +18,12 @@ void Main()
 
 int sumArray(int c)
 {
-	if (c == 0)
+	if (c <= 0)
+	{
 		return arrayLoaded[c];
-	else
-		return sumArray(c-1) + arrayLoaded[c] * arrayLoaded[c];
+	}
+	
+	return sumArray(c-1) + arrayLoaded[c] * arrayLoaded[c];
 }
 
 int[] LoadArray()
@@ -33,6 +35,4 @@ int[] LoadArray()
 	}
 	
 	return squareThese;
-
 }
-
