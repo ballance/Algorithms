@@ -4,5 +4,5 @@
  - [Sum of Squares](Sum-of-squares.cs)
 
 #### JavaScript
- - [Simple Compression](Simple-Compression.js)
+ - [Simple Compression](Simple-compression.js)
  
