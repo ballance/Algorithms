@@ -8,3 +8,4 @@ Some algorithms I've used lately - mostly code interview fodder
 
 #### JavaScript
  - [Simple Compression](Simple-Compression.js)
+ 
